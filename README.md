@@ -4,8 +4,8 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Desenvolvedores do Projeto](#pessoas-desenvolvedoras)
-* [Dependências](#dependencias)
+* [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
+* [Dependências](#dependências)
 
 # Descrição do Projeto
 O Conversor de Moedas é uma aplicação Java que permite aos usuários converter diferentes moedas utilizando a 
@@ -21,7 +21,7 @@ Atravez do console pode fazer a conversão de valores para diferentes moedas
 - Java
 - HttpClient
 - Gson
-# Desenvolvedoras do Projeto
+# Desenvolvedores do Projeto
 - [Kael Passos](https://github.com/nikaelson)
 # Dependências
 - Gson: Esse projeto faz uso do jar do Gson. Para saber mais sobre acesse a documentação oficial [MVN Gson](https://mvnrepository.com/artifact/com.google.code.gson/gson)

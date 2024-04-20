@@ -19,8 +19,8 @@ public class Main {
                             
                         Escolha uma opção de conversão
                         
-                    0 - Real para Dólar estadunidense
-                    1 - Dólar estadunidense para Real
+                    1 - Real para Dólar estadunidense
+                    2 - Dólar estadunidense para Real
                     3 - Real para Euro
                     4 - Euro para Real
                     5 - Dólar para Euro
@@ -45,7 +45,7 @@ public class Main {
                     break;
                 case 3:
                     currencySymbols[0] = "BRL";
-                    currencySymbols[1] = "USD";
+                    currencySymbols[1] = "EUR";
                     break;
                 case 4:
                     currencySymbols[0] = "EUR";
